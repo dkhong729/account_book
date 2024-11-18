@@ -1,0 +1,11 @@
+label {
+    font-weight: normal;
+  }
+  
+  .panel-body .glyphicon-remove {
+    display: none;
+  }
+  
+  .panel-body:hover .glyphicon-remove {
+    display: inline-block;
+  }

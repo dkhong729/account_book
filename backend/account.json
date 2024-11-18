@@ -1,0 +1,37 @@
+{
+  "accounts": [
+    {},
+    {
+      "description": "買菜",
+      "date": "2024-10-19",
+      "type": 1,
+      "amount": "90",
+      "isIncome": true,
+      "id": "gqaFoW3w0"
+    },
+    {
+      "title": "發工資",
+      "time": "2024-10-19T00:00:00.000Z",
+      "type": -1,
+      "account": 11,
+      "remark": "",
+      "id": "Rp-QT516M"
+    },
+    {
+      "title": "吃拉麵",
+      "time": "2024-12-12T00:00:00.000Z",
+      "type": 1,
+      "account": 11,
+      "remark": "ao6u.",
+      "id": "uYm8yj0dd"
+    },
+    {
+      "title": "吃拉麵",
+      "time": "2024-12-12T00:00:00.000Z",
+      "type": -1,
+      "account": 11,
+      "remark": "",
+      "id": "rv6V2L5F9"
+    }
+  ]
+}
